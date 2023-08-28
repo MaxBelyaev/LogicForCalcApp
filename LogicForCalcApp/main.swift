@@ -150,7 +150,7 @@ func acAction() {
     updateDisplay(text: currentNumber)
 }
 
-// MARK: program flow
+// MARK: program flow (for future)
 print("SimpleCalc program")
 print("Welcome to SimpleCalc. \n")
 runLoop()
