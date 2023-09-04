@@ -122,8 +122,8 @@ func makeCalculation(operation: Operations) {
 }
 
 func addition() {
-        makeCalculation(operation: .addition)
-    }
+    makeCalculation(operation: .addition)
+}
 
 func substraction() {
     makeCalculation(operation: .substraction)
